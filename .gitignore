@@ -140,3 +140,8 @@ cython_debug/
 # Tweepy function with keys
 tweeps.py
 API_KEYS.env
+
+# Other files
+image_predictions.py
+image-predictions1.tsv
+twitter-api.rtf
