@@ -146,3 +146,4 @@ image_predictions.py
 image-predictions1.tsv
 twitter-api.rtf
 cleaning-student.ipynb
+*.docx
